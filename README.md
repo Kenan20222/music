@@ -1,9 +1,9 @@
 
 # Müsiqi Bot 🇹🇷
-- [Müzik Bot](https://t.me/LuksMusicRoBot) Telegram Müzik Bot .
+- [Müsiqi Bot](http://t.me/HzMusic_Bot) Telegram Müsiqi Bot .
 
 # Support 
-- [Support](https://t.me/NeonSUP) Telegram Support Grub .
+- [Support](https://t.me/birxatiremsen) Telegram Support Grub .
 
 
 ### ⏳ Genel Komutlar
